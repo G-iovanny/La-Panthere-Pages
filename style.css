@@ -753,8 +753,9 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(40, 38, 33, 0.7);
     padding: 40px 40px 40px 40px;
+    border-radius: 10px;
 }
 
 .bold-link {
@@ -778,6 +779,7 @@ h4 {
     color: white!important;
     text-shadow: black 1px 0 10px;
 }
+
 
 .btn-atomic-tangerine {
     background: #F3976C;
@@ -823,7 +825,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/MainStylo.webp");
 }
 
 @media (max-width: 1024px) {
